@@ -1,4 +1,4 @@
-# PredictiveModeling
+# Applied Predictive Modeling
 This project is done to get the knowledge of predictive modeling
 .Once you read and do some questions from each chapter, you will be able to do more projects.
 If you need another data, here are some of the data source:
