@@ -6,4 +6,4 @@ If you need another data, here are some of the data source:
 2) https://www.kaggle.com/
 
 Reference Book:
-1) Applied Predictive Modeling by "Max Kuhn"," Kjell Johnson"
+1) Kuhn, M., Johnson, K. (2013) Applied Predictive Modeling. NY: Springer
